@@ -8,6 +8,8 @@ permalink: /
 
 Policies for **On the Rise Digital** apps. One copy serves every app, so a correction here reaches all of them.
 
+- [Data Handling]({{ site.baseurl }}/data-handling/)
+- [Tester Policy]({{ site.baseurl }}/tester-policy/)
 - [Data Deletion]({{ site.baseurl }}/data-deletion/)
 - [Terms of Sale]({{ site.baseurl }}/terms-of-sale/)
 - [Refund Policy]({{ site.baseurl }}/refund-policy/)

@@ -131,7 +131,7 @@ it. We do not sell it, share it for advertising, or use it for anything other
 than running sync for you.
 
 **Deleting it.** You can ask us to delete your account and everything synced
-with it at any time by writing to ontherisedigital@gmail.com; we will do it
+with it at any time by writing to admin@ontherisedigitalhq.com; we will do it
 within 30 days. Where an app has a delete-account button in its settings, it
 does the same thing at once. Deleting your account does not remove the copies
 on your own devices; those are yours until you delete them (section 2).
@@ -199,7 +199,7 @@ you, and not to be discriminated against for exercising them.
 In practice the personal information we hold is your purchase record, any
 support emails, and, if you use sync, your account email and what you synced.
 To see, correct, export or delete any of it, write to
-ontherisedigital@gmail.com and we will respond within 30 days.
+admin@ontherisedigitalhq.com and we will respond within 30 days.
 
 **We have never sold personal information and have no plans to.** There is no
 "do not sell" switch because there is nothing to switch off.
@@ -241,4 +241,4 @@ something new, we would say so plainly and ask first.
 ## 15. Contact
 
 Alison Risner, trading as On the Rise Digital
-ontherisedigital@gmail.com
+admin@ontherisedigitalhq.com

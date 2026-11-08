@@ -20,7 +20,7 @@ Last updated 03 October 2026
 
 ## How to get help
 
-Email **ontherisedigital@gmail.com**. That is the only channel — there is no phone line
+Email **admin@ontherisedigitalhq.com**. That is the only channel — there is no phone line
 and no live chat, because there is one of us.
 
 ## What to include

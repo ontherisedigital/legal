@@ -84,12 +84,12 @@ immediately. **At checkout you will be asked to tick a box** confirming that
 you want immediate access and understand you are giving up the right to
 cancel. If you tick it and download, the 14-day right no longer applies.
 
-Prefer to keep it? Do not tick the box. Email ontherisedigital@gmail.com and we will
+Prefer to keep it? Do not tick the box. Email admin@ontherisedigitalhq.com and we will
 hold delivery for 14 days instead.
 
 ## 5. How to ask
 
-Email **ontherisedigital@gmail.com** with:
+Email **admin@ontherisedigitalhq.com** with:
 
 - the email address you bought with
 - the order number or approximate purchase date
@@ -123,4 +123,4 @@ already granted.
 
 ## 8. Contact
 
-ontherisedigital@gmail.com — we answer every email.
+admin@ontherisedigitalhq.com — we answer every email.

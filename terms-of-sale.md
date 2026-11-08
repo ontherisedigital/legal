@@ -28,7 +28,7 @@ transaction only.
 ## 1. Who you are buying from
 
 Alison Risner, trading as On the Rise Digital, Ohio, United States.
-Contact: ontherisedigital@gmail.com
+Contact: admin@ontherisedigitalhq.com
 
 > **If you register a DBA or form an LLC, change this line first.** It names
 > the party the customer is contracting with, and it must be accurate.
@@ -78,7 +78,7 @@ sent to the email address you gave at checkout.
 **5.2** **Check your spam folder** before contacting us about a missing
 delivery. That is the cause the overwhelming majority of the time.
 
-**5.3** If you have not received it within one hour, email ontherisedigital@gmail.com
+**5.3** If you have not received it within one hour, email admin@ontherisedigitalhq.com
 with the name on the order and we will resend it.
 
 **5.4** Giving a wrong or inactive email address is the one failure mode we
@@ -97,7 +97,7 @@ EULA and we may deactivate it.
 **6.3** If a key is found published anywhere public, we may deactivate it
 without refund.
 
-**6.4** Lost your key? Email ontherisedigital@gmail.com from the address you bought
+**6.4** Lost your key? Email admin@ontherisedigitalhq.com from the address you bought
 with, and we will resend it. If you no longer have that address, tell us the
 approximate date and amount and we will try to find the order.
 
@@ -177,10 +177,10 @@ These Terms are governed by the laws of Ohio, United States. If you are a
 consumer resident elsewhere, you keep the benefit of any mandatory consumer
 protections of your own country, and may bring proceedings there.
 
-Before any formal action, please contact ontherisedigital@gmail.com. Most disputes are a
+Before any formal action, please contact admin@ontherisedigitalhq.com. Most disputes are a
 misunderstanding and resolve in one exchange.
 
 ## 16. Contact
 
 Alison Risner, trading as On the Rise Digital
-ontherisedigital@gmail.com
+admin@ontherisedigitalhq.com

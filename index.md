@@ -20,4 +20,4 @@ Policies for **On the Rise Digital** apps. One copy serves every app, so a corre
 
 - [Third-Party Licences - Coloring Book Studio]({{ site.baseurl }}/third-party-licences-coloring-book-studio/)
 
-Questions: ontherisedigital@gmail.com
+Questions: admin@ontherisedigitalhq.com

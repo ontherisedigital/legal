@@ -108,7 +108,7 @@ page.
 
 ## 9. Contact
 
-ontherisedigital@gmail.com
+admin@ontherisedigitalhq.com
 
 ---
 

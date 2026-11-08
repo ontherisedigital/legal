@@ -30,7 +30,7 @@ use it.
 
 ## 2. Who runs this site
 
-Alison Risner, trading as On the Rise Digital. Contact: ontherisedigital@gmail.com
+Alison Risner, trading as On the Rise Digital. Contact: admin@ontherisedigitalhq.com
 
 ## 3. What is on it
 
@@ -61,7 +61,7 @@ vulnerabilities, or interfere with its operation.
 
 **5.6** Impersonate us, or present the site or our products as your own.
 
-Found a genuine security problem? Please tell us at ontherisedigital@gmail.com before
+Found a genuine security problem? Please tell us at admin@ontherisedigitalhq.com before
 telling anyone else. We will respond and we will credit you if you want
 credit.
 
@@ -111,4 +111,4 @@ you keep the benefit of any mandatory protections of your own country.
 
 ## 13. Contact
 
-ontherisedigital@gmail.com
+admin@ontherisedigitalhq.com

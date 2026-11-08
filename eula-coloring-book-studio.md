@@ -19,7 +19,7 @@ documentation ("the Software").
 
 By installing, copying or using the Software you accept this Agreement. If
 you do not accept it, do not install the Software, and contact
-ontherisedigital@gmail.com about a refund under the terms in section 9.
+admin@ontherisedigitalhq.com about a refund under the terms in section 9.
 
 ## 2. What you may do
 
@@ -98,7 +98,7 @@ alongside the Software and listed at
 
 Where a component is dynamically invoked as a separate program rather than
 modified, you are entitled to its source from its own project, and we will
-supply the exact version we ship on request to ontherisedigital@gmail.com.
+supply the exact version we ship on request to admin@ontherisedigitalhq.com.
 
 ## 6. The Software does not supply or create artwork
 
@@ -159,7 +159,7 @@ section.
 **9.3** At our discretion, if the Software does not function on a supported
 system and we cannot resolve it with you.
 
-Before requesting a refund, please contact ontherisedigital@gmail.com. Most problems are
+Before requesting a refund, please contact admin@ontherisedigitalhq.com. Most problems are
 a missing component or a site that has changed, and both are usually fixable.
 
 ## 10. Limitation of liability
@@ -220,4 +220,4 @@ bought.
 **13.6 Assignment.** You may not assign this Agreement. We may assign it as
 part of a sale or transfer of the business.
 
-**13.7 Contact.** ontherisedigital@gmail.com
+**13.7 Contact.** admin@ontherisedigitalhq.com

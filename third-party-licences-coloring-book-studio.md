@@ -115,4 +115,4 @@ involved in writing them.
 
 ---
 
-Questions about any entry on this page: ontherisedigital@gmail.com
+Questions about any entry on this page: admin@ontherisedigitalhq.com

@@ -50,7 +50,7 @@ This applies only to an app that offers sync, and only if you made an account.
 settings, use it. It removes your account and everything synced with it at
 once.
 
-**Ask us.** Email ontherisedigital@gmail.com from the address your account
+**Ask us.** Email admin@ontherisedigitalhq.com from the address your account
 uses, with the subject "Delete my account" and the name of the app. We will
 delete your account and everything synced with it within 30 days, and tell you
 when it is done.
@@ -91,7 +91,7 @@ This includes any log files you sent.
 
 ## How to ask, and how long it takes
 
-Write to ontherisedigital@gmail.com. Tell us the email address on your account
+Write to admin@ontherisedigitalhq.com. Tell us the email address on your account
 or purchase and the name of the app. We may ask you to confirm you own the
 address before we delete anything, so that nobody else can delete your data.
 
@@ -102,4 +102,4 @@ We respond within 30 days, and usually sooner.
 ## Contact
 
 Alison Risner, trading as On the Rise Digital
-ontherisedigital@gmail.com
+admin@ontherisedigitalhq.com

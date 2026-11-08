@@ -26,4 +26,4 @@ What each app stores on your own device is set out in the
 That is the whole of it. There is no banner to click, because there is nothing
 to consent to. If that ever changes, this page changes first.
 
-Questions: ontherisedigital@gmail.com
+Questions: admin@ontherisedigitalhq.com
